@@ -1,0 +1,9 @@
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            cursor: url(/img/番外蛋中号.ico), auto;
+        }
+        a:hover {
+            cursor: url(/img/番外蛋中号.ico), pointer;
+        }
