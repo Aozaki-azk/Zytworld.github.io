@@ -4,6 +4,11 @@
             height: 100vh;
             cursor: url(/img/番外蛋中号.ico), auto;
         }
-        a:hover {
+*,        
+a:hover,
+a:link,
+a:visited,
+a:active,
+a:focus {
             cursor: url(/img/番外蛋中号.ico), pointer;
         }
